@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Sitemap: https://eer3-pixelsite2.github.io/red-flare-cs16/sitemap.xml
 
